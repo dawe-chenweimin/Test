@@ -22,6 +22,9 @@
     int b=1314;
     NSString *c=[NSString stringWithFormat:@"%d %d",a,b];
     NSLog(@"%@",c);
+    
+    NSLog(@"%@",@"这是我第一次上传github代码");
+    NSLog(@"%@",@"希望不会报错");
 }
 
 - (void)didReceiveMemoryWarning {
