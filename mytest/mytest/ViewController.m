@@ -25,6 +25,8 @@
     
     NSLog(@"%@",@"这是我第一次上传github代码");
     NSLog(@"%@",@"希望不会报错");
+    NSLog(@"%@",@"这是我第一次用github客户端上传github代码");
+
 }
 
 - (void)didReceiveMemoryWarning {
